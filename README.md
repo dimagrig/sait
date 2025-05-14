@@ -2,21 +2,29 @@
 <html>
  <body>
   <p style = "background-color: brown; text-align: center;"> \\</p></a>
-    <h1 style = "text-align: center; border: 2px dotted black;" >МЕМОЛОГИЯ </h1>
-    <p style = "text-align: center; color: rgb(255, 140, 0); border: 1px solid  rgb(13, 68, 27);"> [ПОПУЛЯРНЫЕ МЕМЫ 2025]</p>
+    
+    <h1 style = "text-align: center; border: 3px solid black;" >МЕМОЛОГИЯ </h1>
+    
+    <p style = "text-align: center; color: rgb(255, 140, 0);"> [ПОПУЛЯРНЫЕ МЕМЫ 2025]</p>
     <ul>
       <li> 1</li>
       <br>
         <img src = "terapevt.PNG" height="350" width="350">  </ul>
+        
       <br>
       <br>
     <ul>
     <li style = "list-style-type: square;">
       <h3 style = "border: 3px dotted rgb(2, 1, 1);"> Мем появился из рыболовных видео, где блогеры использовали фразу «Карась дуреет от этой прикормки». Позже выражение начало приобретать метаироничное значение, а слово «прикормка» стало ассоциироваться с навязчивой рекламой.</li>
                                                                            </h3>
+  
+
+
+                                                                    
     </li>
       <br>
       <br>
+    <hr 
       <br>
       <br>
      <ul>
@@ -34,6 +42,7 @@
     </ul>
           <br>
           <br>
+          <hr>
           <br>
           <li> 3</li>
           <br>
@@ -44,8 +53,9 @@
           <li style = "list-style-type: square;"> 
             <h3 style = "border: 3px dotted rgb(2, 1, 1);">Фраза взята из фильма «Субстанция», вышедшего в 2024 году.По сюжету 50-летняя актриса Элизабет Спаркл боится потерять работу и получает кассету с рекламой экспериментального препарата «Субстанция», который обещает создать молодую версию женщины. В рекламном ролике звучит фраза, которая стала мемом. </h3> 
 
-
-‍     <h3 style = "color: blueviolet; text-align: center;"> ЕСЛИ САЙТ ПОНРАВИЛСЯ</h3>
+            
+                  <hr>
+‍     <h3  style = "color: blueviolet; text-align: center;"> ЕСЛИ САЙТ ПОНРАВИЛСЯ</h3> 
   
       <img src = "111.PNG" title="НУ ЧТО ТАМ У НАС С ДЕНЬГАМИ!?">
       <br>
@@ -58,5 +68,8 @@
               <br>
               <br>
           <p style = "background-color: brown; text-align: center;">// </p>
+
+
+          
  </body>
 </html>
